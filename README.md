@@ -1,4 +1,4 @@
-# rewrite BANet code
+# BANet code
 2023.6.6: major revision
 
 ## Dataset
