@@ -2,7 +2,7 @@
 2023.6.6: major revision
 
 ## Dataset
-download link in [google drive](https://drive.google.com/drive/folders/1oxTBi8_tWT0EcflZWH71ECRY_K7WMhfo?usp=share_link) or [Baiduyunpan]()
+download link in [google drive](https://drive.google.com/drive/folders/1oxTBi8_tWT0EcflZWH71ECRY_K7WMhfo?usp=share_link) or [Baiduyunpan](loading soon).    
 BA dataset excluding test cities (Beijing, Shanghai, Xian, and Kunming)
 ### Setup datasets:
 * training dataset: E:/yinxcao/ZY3LC/datanew8bit/datalist_posneg_train_0.6.csv
