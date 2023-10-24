@@ -1,5 +1,5 @@
-# BANet code
-2023.6.6: major revision
+# A multi-scale weakly supervised learning method with adaptive online noise correction for high-resolution change detection of built-up areas
+Author: Yinxia Cao, Xin Huang, Qihao Weng | [Paper link](https://www.sciencedirect.com/science/article/pii/S0034425723003309) | Date: 2023
 
 ## Dataset
 download link in [google drive](https://drive.google.com/drive/folders/1oxTBi8_tWT0EcflZWH71ECRY_K7WMhfo?usp=share_link) or [Baiduyunpan] (link：https://pan.baidu.com/s/17iHRoWs8XOY_93s9s5IqZQ 
