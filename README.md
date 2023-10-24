@@ -33,7 +33,7 @@ demo_1116_gen_pix_beijing.m
 demo_1117_gen_obj_diff_beijing.m
 demo_1117_gen_change_cert.m
 ```
-clip sample
+- clip sample
 ```matlab
 demo_1117_clipsample_imglab_bj.m
 demo_1118_testsample_diffarea.m
@@ -41,6 +41,5 @@ demo_1118_testsample_diffarea.m
 2. training change detection models
 see directory `BANetCD`
 
-
-#### stats model parameters
+- stats model parameters
 see package `torchstat`
